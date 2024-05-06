@@ -35,10 +35,10 @@ npm start
 3.Access the application in your browser at http://localhost:3000.
 
 # Dependencies
-> React: JavaScript library for building user interfaces.
-> Node.js: JavaScript runtime environment for server-side development.
-> ChatEngine.io: Platform for building real-time chat applications.
-> react-chat-engine-pretty: Library for creating aesthetically pleasing chat interfaces.
+-> React: JavaScript library for building user interfaces.
+-> Node.js: JavaScript runtime environment for server-side development.
+-> ChatEngine.io: Platform for building real-time chat applications.
+-> react-chat-engine-pretty: Library for creating aesthetically pleasing chat interfaces.
 
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
